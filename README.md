@@ -12,9 +12,6 @@ I am a passionate Web Developer and Software Engineer with experience in buildin
 ![](https://nirzak-streak-stats.vercel.app/?user=Biplab.G&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Biplab.G&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Biplab.G&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
